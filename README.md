@@ -2,8 +2,8 @@
 - 👀
 - I'm a Norwegian, and my formal education is in philosophy, and I have previously worked as a journalist. I am training to become a coder at Jobloop in Bergen.
 -  
-- 🌱 I’m currently learning ... html, CSS, JavaScript and Python.
-- Python! (and GitHub!)
+- 🌱 I’m currently learning ... C# and Asp.NET (and some JS, HTML and CSS) 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
