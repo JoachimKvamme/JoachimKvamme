@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... C# and Asp.NET (and some React) 
 - 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me E-mail: joachim.kvamme@gmail.com
 
 <!---
 JoachimKvamme/JoachimKvamme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
