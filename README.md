@@ -2,7 +2,7 @@
 - 👀
 - I'm a Norwegian, and my formal education is in philosophy, and I have previously worked as a journalist. I am training to become a coder at Jobloop in Bergen.
 -  
-- 🌱 I’m currently learning ... C# and Asp.NET (and some React) 
+- 🌱 I’m currently learning ... C# (with .NET), c/c++, Unity and Java
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 E-mail: joachim.kvamme@gmail.com
